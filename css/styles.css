@@ -29,7 +29,7 @@ body {
 
 
 header {
-    width: 910px;	/* reduced by 20px to accommodate shadow */
+    width: 890px;	/* reduced by 20px to accommodate shadow */
     margin-bottom: 30px;
     margin-top: 10px;
     text-align: center;
@@ -71,7 +71,7 @@ nav ul li a:hover {
     color: black;
     border-left: 2px solid;
     border-right: 2px solid;    
-    background-image: gray; 
+    background: gray; 
 	font-style: italic;
 }
 
@@ -81,7 +81,7 @@ nav ul li a:hover {
 
 figure{
     padding-top: 10px;
-    text-align: center;
+    text-align: left;
 }
 
 figcaption {
@@ -89,7 +89,7 @@ figcaption {
 }
 
 aside {
-    width: 200px;
+    width: 230px;
     margin: 0 5px 0 5px;
     padding: 10px;
     float: right;
